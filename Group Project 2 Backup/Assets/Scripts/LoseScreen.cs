@@ -20,5 +20,18 @@ public class LoseScreen : MonoBehaviour
     {
       Cursor.lockState = CursorLockMode.None;
     }
+
+    void Update()
+    {
+        if (Input.GetButtonDown("A Button"))
+        {
+            SceneManager.LoadScene("Menus");
+        }
+        if (Input.GetButtonDown("B Button"))
+        {
+            Debug.Log("Quit");
+            Application.Quit();
+        }
+    }
 }
 

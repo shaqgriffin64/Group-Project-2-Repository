@@ -15,15 +15,30 @@ MonoBehaviour:
   SimpleSelectedItems:
     m_Keys:
     - .collabignore
-    - Assets/Prefab/Torch.prefab
-    - Assets/Prefab/Torch.prefab.meta
     - Assets/Scenes/Temple Whitebox v2.unity
     - Assets/Scenes/Temple Whitebox v2.unity.meta
+    - Assets/Scripts/Controller/Test Scripts/Waypoints.cs
+    - Assets/Scripts/Controller/Test Scripts/Waypoints.cs.meta
+    - Assets/Scripts/LoseScreen.cs
+    - Assets/Scripts/LoseScreen.cs.meta
+    - Assets/Scripts/MainMenu.cs
+    - Assets/Scripts/MainMenu.cs.meta
+    - Assets/Scripts/MouseLook2.cs
+    - Assets/Scripts/MouseLook2.cs.meta
+    - Assets/Scripts/PauseMenu.cs
+    - Assets/Scripts/PauseMenu.cs.meta
+    - Assets/Scripts/PlayerMovement2.cs
+    - Assets/Scripts/PlayerMovement2.cs.meta
+    - Assets/Scripts/WinScreen.cs
+    - Assets/Scripts/WinScreen.cs.meta
+    - Assets/Textures/RB.png
+    - Assets/Textures/RB.png.meta
     - Packages/manifest.json
     - Packages/packages-lock.json
+    - ProjectSettings/InputManager.asset
     - ProjectSettings/ProjectVersion.txt
     - 
-    m_Values: 000000000000000000
+    m_Values: 000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

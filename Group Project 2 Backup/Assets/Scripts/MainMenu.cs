@@ -15,4 +15,17 @@ public class MainMenu : MonoBehaviour
         Debug.Log("Quit");
         Application.Quit();
     }
+
+    void Update()
+    {
+        if (Input.GetButtonDown("A Button"))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        }
+        if (Input.GetButtonDown("B Button"))
+        {
+            Debug.Log("Quit");
+            Application.Quit();
+        }
+    }
 }

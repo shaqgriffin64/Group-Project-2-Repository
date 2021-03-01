@@ -44,7 +44,7 @@ public class PlayerMovement2 : MonoBehaviour
     public AudioClip FlashLightSFX;
 
 
-    void Start()
+    void Awake()
     {
         flashLight.enabled = false;
         loseText.text = "";
@@ -92,24 +92,24 @@ public class PlayerMovement2 : MonoBehaviour
         //allows the player to exit the game when the 'escape key is pressed'
         
         //Checking to see if the LeftShift key is down
-        if (Input.GetKeyDown(KeyCode.LeftShift))
+        if (Input.GetKeyDown(KeyCode.LeftShift) || Input.GetButtonDown("Sprint"))
         {
             //when it is down, player's speed is double to 12
             speed = 12f;
         }
         //Checking to see if the LeftShift key is up
-        if (Input.GetKeyUp(KeyCode.LeftShift))
+        if (Input.GetKeyUp(KeyCode.LeftShift) || Input.GetButtonUp("Sprint"))
         {
             //when it is up, the player's speed is set to 6
             speed = 6f;
         }
 
-        if (Input.GetKeyDown(KeyCode.F))
+        if (Input.GetKeyDown(KeyCode.F) || Input.GetButtonDown("Right Bumper"))
         {
             flashLight.enabled = true;
             audioSource.PlayOneShot(FlashLightSFX);
         }
-        if (Input.GetKeyUp(KeyCode.F))
+        if (Input.GetKeyUp(KeyCode.F) || Input.GetButtonUp("Right Bumper"))
         {
             flashLight.enabled = false;
         }
