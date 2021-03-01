@@ -38,12 +38,18 @@ public class PlayerMovement2 : MonoBehaviour
     //tells whether the player is grounded or not
     private bool isGrounded;
 
+    //Used for Audio
+    public AudioSource audioSource;
+    public AudioClip Walk;
+    public AudioClip FlashLightSFX;
+
 
     void Start()
     {
         flashLight.enabled = false;
         loseText.text = "";
         winText.text = "";
+        audioSource = GetComponent <AudioSource>();
     }
     
     // Update is called once per frame
@@ -101,13 +107,27 @@ public class PlayerMovement2 : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.F))
         {
             flashLight.enabled = true;
+            audioSource.PlayOneShot(FlashLightSFX);
         }
         if (Input.GetKeyUp(KeyCode.F))
         {
             flashLight.enabled = false;
         }
-
-
+        
+        
+        // For Walking Sound Effect
+        if (isGrounded)
+        {
+            if((Input.GetAxis("Horizontal") != 0f || Input.GetAxis("Vertical") != 0f) && audioSource.isPlaying == false)
+            {
+            
+                audioSource.clip = Walk;
+                audioSource.Play();
+                Debug.Log ("Play Sound");
+            
+            }
+        }
+        
     }
 
     //Function used as an event handler for when the player collides with the Mummy or the Macguffin
