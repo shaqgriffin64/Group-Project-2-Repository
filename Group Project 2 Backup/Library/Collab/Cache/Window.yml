@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+<<<<<<< Updated upstream
     - Assets/Materials/Player Material.mat
     - Assets/Materials/Player Material.mat.meta
     - Assets/Materials/checkerboard 1.mat
@@ -31,6 +32,466 @@ MonoBehaviour:
     - ProjectSettings/TagManager.asset
     - 
     m_Values: 00000000000000000000000000000000
+=======
+    - Assets/Animation.meta
+    - Assets/Animation/Arms.meta
+    - Assets/Animation/Arms/Arms.anim
+    - Assets/Animation/Arms/Arms.anim.meta
+    - Assets/Animation/Arms/Arms2riggedUV.controller
+    - Assets/Animation/Arms/Arms2riggedUV.controller.meta
+    - Assets/Animation/Mummy.meta
+    - Assets/Animation/Mummy/Mummy.anim
+    - Assets/Animation/Mummy/Mummy.anim.meta
+    - Assets/Animation/Mummy/MummyRiggedUV.controller
+    - Assets/Animation/Mummy/MummyRiggedUV.controller.meta
+    - Assets/Materials/AI Material.mat
+    - Assets/Materials/AI Material.mat.meta
+    - Assets/Materials/AnkhMat.mat
+    - Assets/Materials/AnkhMat.mat.meta
+    - Assets/Materials/AnkhOutlineMat.mat
+    - Assets/Materials/AnkhOutlineMat.mat.meta
+    - Assets/Materials/Arms.mat
+    - Assets/Materials/Arms.mat.meta
+    - Assets/Materials/Body.mat
+    - Assets/Materials/Body.mat.meta
+    - Assets/Materials/BoxJewelMat.mat
+    - Assets/Materials/BoxJewelMat.mat.meta
+    - Assets/Materials/BoxLidMat.mat
+    - Assets/Materials/BoxLidMat.mat.meta
+    - Assets/Materials/BoxMat.mat
+    - Assets/Materials/BoxMat.mat.meta
+    - Assets/Materials/BoxMetalMat.mat
+    - Assets/Materials/BoxMetalMat.mat.meta
+    - Assets/Materials/CoinMat.mat
+    - Assets/Materials/CoinMat.mat.meta
+    - Assets/Materials/ColumnEndsMat.mat
+    - Assets/Materials/ColumnEndsMat.mat.meta
+    - Assets/Materials/CrookMat.mat
+    - Assets/Materials/CrookMat.mat.meta
+    - Assets/Materials/Eyes.mat
+    - Assets/Materials/Eyes.mat.meta
+    - Assets/Materials/Flashlight.mat
+    - Assets/Materials/Flashlight.mat.meta
+    - Assets/Materials/Hands.mat
+    - Assets/Materials/Hands.mat.meta
+    - Assets/Materials/Holder.mat
+    - Assets/Materials/Holder.mat.meta
+    - Assets/Materials/JewelMat.mat
+    - Assets/Materials/JewelMat.mat.meta
+    - Assets/Materials/Macguffin Material.mat
+    - Assets/Materials/Macguffin Material.mat.meta
+    - Assets/Materials/MidBrokeMat.mat
+    - Assets/Materials/MidBrokeMat.mat.meta
+    - Assets/Materials/MidsectMat.mat
+    - Assets/Materials/MidsectMat.mat.meta
+    - Assets/Materials/Player Material.mat
+    - Assets/Materials/Player Material.mat.meta
+    - Assets/Materials/Sarcophagus_Mat.mat
+    - Assets/Materials/Sarcophagus_Mat.mat.meta
+    - Assets/Materials/Stuff Material.mat
+    - Assets/Materials/Stuff Material.mat.meta
+    - Assets/Materials/TopBrokeMat.mat
+    - Assets/Materials/TopBrokeMat.mat.meta
+    - Assets/Materials/Torch_mat.mat
+    - Assets/Materials/Torch_mat.mat.meta
+    - Assets/Materials/TreasureMeshMat.mat
+    - Assets/Materials/TreasureMeshMat.mat.meta
+    - Assets/Materials/TrunkFeet.mat
+    - Assets/Materials/TrunkFeet.mat.meta
+    - Assets/Materials/TrunkLegMat.mat
+    - Assets/Materials/TrunkLegMat.mat.meta
+    - Assets/Materials/TrunkLipMat.mat
+    - Assets/Materials/TrunkLipMat.mat.meta
+    - Assets/Materials/TrunkMainMat.mat
+    - Assets/Materials/TrunkMainMat.mat.meta
+    - Assets/Materials/UrnMat.mat
+    - Assets/Materials/UrnMat.mat.meta
+    - Assets/Materials/WallFloor.mat
+    - Assets/Materials/WallFloor.mat.meta
+    - Assets/Materials/checkerboard 1.mat
+    - Assets/Materials/checkerboard 1.mat.meta
+    - Assets/Materials/checkerboard.mat
+    - Assets/Materials/checkerboard.mat.meta
+    - Assets/Materials/checkerboard.png
+    - Assets/Materials/checkerboard.png.meta
+    - Assets/Models.meta
+    - Assets/Models/AnkhRefined.fbx
+    - Assets/Models/AnkhRefined.fbx.meta
+    - Assets/Models/Arms2riggedUV.fbx
+    - Assets/Models/Arms2riggedUV.fbx.meta
+    - Assets/Models/BrokenColumn.fbx
+    - Assets/Models/BrokenColumn.fbx.meta
+    - Assets/Models/Column.fbx
+    - Assets/Models/Column.fbx.meta
+    - Assets/Models/MummyRiggedUV.fbx
+    - Assets/Models/MummyRiggedUV.fbx.meta
+    - Assets/Models/Sarchophagus.fbx
+    - Assets/Models/Sarchophagus.fbx.meta
+    - Assets/Models/Torch.fbx
+    - Assets/Models/Torch.fbx.meta
+    - Assets/Models/Treasure_Final.fbx
+    - Assets/Models/Treasure_Final.fbx.meta
+    - Assets/Models/WallFloor.fbx
+    - Assets/Models/WallFloor.fbx.meta
+    - Assets/Models/urn.fbx
+    - Assets/Models/urn.fbx.meta
+    - Assets/Prefab.meta
+    - Assets/Prefab/AnkhRefined.prefab
+    - Assets/Prefab/AnkhRefined.prefab.meta
+    - Assets/Prefab/Arms2riggedUV.prefab
+    - Assets/Prefab/Arms2riggedUV.prefab.meta
+    - Assets/Prefab/BrokenColumn.prefab
+    - Assets/Prefab/BrokenColumn.prefab.meta
+    - Assets/Prefab/Column.prefab
+    - Assets/Prefab/Column.prefab.meta
+    - Assets/Prefab/MummyRiggedUV.prefab
+    - Assets/Prefab/MummyRiggedUV.prefab.meta
+    - Assets/Prefab/Sarchophagus.prefab
+    - Assets/Prefab/Sarchophagus.prefab.meta
+    - Assets/Prefab/Torch.prefab
+    - Assets/Prefab/Torch.prefab.meta
+    - Assets/Prefab/Treasure_Final.prefab
+    - Assets/Prefab/Treasure_Final.prefab.meta
+    - Assets/Prefab/WallFloor.prefab
+    - Assets/Prefab/WallFloor.prefab.meta
+    - Assets/Prefab/urn.prefab
+    - Assets/Prefab/urn.prefab.meta
+    - Assets/Scenes/AI testing.meta
+    - Assets/Scenes/AI testing.unity
+    - Assets/Scenes/AI testing.unity.meta
+    - Assets/Scenes/AI testing/NavMesh.asset
+    - Assets/Scenes/AI testing/NavMesh.asset.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/Temple White Box.meta
+    - Assets/Scenes/Temple White Box.unity
+    - Assets/Scenes/Temple White Box.unity.meta
+    - Assets/Scenes/Temple White Box/NavMesh.asset
+    - Assets/Scenes/Temple White Box/NavMesh.asset.meta
+    - Assets/Scenes/Temple Whitebox v2.meta
+    - Assets/Scenes/Temple Whitebox v2.unity
+    - Assets/Scenes/Temple Whitebox v2.unity.meta
+    - Assets/Scenes/Temple Whitebox v2/NavMesh.asset
+    - Assets/Scenes/Temple Whitebox v2/NavMesh.asset.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/Controller.meta
+    - Assets/Scripts/Controller/EnemyController.cs
+    - Assets/Scripts/Controller/EnemyController.cs.meta
+    - Assets/Scripts/Controller/FlashLightController.cs
+    - Assets/Scripts/Controller/FlashLightController.cs.meta
+    - Assets/Scripts/Controller/PathFollowAITest.cs
+    - Assets/Scripts/Controller/PathFollowAITest.cs.meta
+    - Assets/Scripts/Controller/Test Scripts.meta
+    - Assets/Scripts/Controller/Test Scripts/Enemy.cs
+    - Assets/Scripts/Controller/Test Scripts/Enemy.cs.meta
+    - Assets/Scripts/Controller/Test Scripts/Waypoints.cs
+    - Assets/Scripts/Controller/Test Scripts/Waypoints.cs.meta
+    - Assets/Scripts/MouseLook2.cs
+    - Assets/Scripts/MouseLook2.cs.meta
+    - Assets/Scripts/Old Movement Script.meta
+    - Assets/Scripts/Old Movement Script/MouseLook.cs
+    - Assets/Scripts/Old Movement Script/MouseLook.cs.meta
+    - Assets/Scripts/Old Movement Script/MoveCamera.cs
+    - Assets/Scripts/Old Movement Script/MoveCamera.cs.meta
+    - Assets/Scripts/Old Movement Script/PlayerMovement.cs
+    - Assets/Scripts/Old Movement Script/PlayerMovement.cs.meta
+    - Assets/Scripts/PlayerManager.cs
+    - Assets/Scripts/PlayerManager.cs.meta
+    - Assets/Scripts/PlayerMovement2.cs
+    - Assets/Scripts/PlayerMovement2.cs.meta
+    - Assets/Textures.meta
+    - Assets/Textures/Ankh.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_BaseColor.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_BaseColor.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_Emissive.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_Emissive.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_Height.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_Height.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_Metallic.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_Metallic.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_Normal.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_Normal.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_Roughness.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhMat_Roughness.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_BaseColor.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_BaseColor.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_Emissive.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_Emissive.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_Height.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_Height.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_Metallic.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_Metallic.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_Normal.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_Normal.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_Roughness.png
+    - Assets/Textures/Ankh/AnkhRefined_AnkhOutlineMat_Roughness.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_BaseColor.png
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_BaseColor.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_Emissive.png
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_Emissive.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_Height.png
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_Height.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_Metallic.png
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_Metallic.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_Normal.png
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_Normal.png.meta
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_Roughness.png
+    - Assets/Textures/Ankh/AnkhRefined_JewelMat_Roughness.png.meta
+    - Assets/Textures/Arms.meta
+    - Assets/Textures/Arms/Arms2riggedUV_Arms_AlbedoTransparency.png
+    - Assets/Textures/Arms/Arms2riggedUV_Arms_AlbedoTransparency.png.meta
+    - Assets/Textures/Arms/Arms2riggedUV_Arms_MetallicSmoothness.png
+    - Assets/Textures/Arms/Arms2riggedUV_Arms_MetallicSmoothness.png.meta
+    - Assets/Textures/Arms/Arms2riggedUV_Arms_Normal.png
+    - Assets/Textures/Arms/Arms2riggedUV_Arms_Normal.png.meta
+    - Assets/Textures/Arms/Arms2riggedUV_Flashlight_AlbedoTransparency.png
+    - Assets/Textures/Arms/Arms2riggedUV_Flashlight_AlbedoTransparency.png.meta
+    - Assets/Textures/Arms/Arms2riggedUV_Flashlight_MetallicSmoothness.png
+    - Assets/Textures/Arms/Arms2riggedUV_Flashlight_MetallicSmoothness.png.meta
+    - Assets/Textures/Arms/Arms2riggedUV_Flashlight_Normal.png
+    - Assets/Textures/Arms/Arms2riggedUV_Flashlight_Normal.png.meta
+    - Assets/Textures/Arms/Arms2riggedUV_Hands_AlbedoTransparency.png
+    - Assets/Textures/Arms/Arms2riggedUV_Hands_AlbedoTransparency.png.meta
+    - Assets/Textures/Arms/Arms2riggedUV_Hands_MetallicSmoothness.png
+    - Assets/Textures/Arms/Arms2riggedUV_Hands_MetallicSmoothness.png.meta
+    - Assets/Textures/Arms/Arms2riggedUV_Hands_Normal.png
+    - Assets/Textures/Arms/Arms2riggedUV_Hands_Normal.png.meta
+    - Assets/Textures/BrokenColumn.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_BaseColor.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_BaseColor.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_Emissive.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_Emissive.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_Height.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_Height.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_Metallic.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_Metallic.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_Normal.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_Normal.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_Roughness.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_MidBrokeMat_Roughness.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_BaseColor.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_BaseColor.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_Emissive.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_Emissive.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_Height.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_Height.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_Metallic.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_Metallic.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_Normal.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_Normal.png.meta
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_Roughness.png
+    - Assets/Textures/BrokenColumn/BrokenColumn_TopBrokeMat_Roughness.png.meta
+    - Assets/Textures/Column.meta
+    - Assets/Textures/Column/Column_ColumnEndsMat_BaseColor.png
+    - Assets/Textures/Column/Column_ColumnEndsMat_BaseColor.png.meta
+    - Assets/Textures/Column/Column_ColumnEndsMat_Emissive.png
+    - Assets/Textures/Column/Column_ColumnEndsMat_Emissive.png.meta
+    - Assets/Textures/Column/Column_ColumnEndsMat_Height.png
+    - Assets/Textures/Column/Column_ColumnEndsMat_Height.png.meta
+    - Assets/Textures/Column/Column_ColumnEndsMat_Metallic.png
+    - Assets/Textures/Column/Column_ColumnEndsMat_Metallic.png.meta
+    - Assets/Textures/Column/Column_ColumnEndsMat_Normal.png
+    - Assets/Textures/Column/Column_ColumnEndsMat_Normal.png.meta
+    - Assets/Textures/Column/Column_ColumnEndsMat_Roughness.png
+    - Assets/Textures/Column/Column_ColumnEndsMat_Roughness.png.meta
+    - Assets/Textures/Column/Column_MidsectMat_BaseColor.png
+    - Assets/Textures/Column/Column_MidsectMat_BaseColor.png.meta
+    - Assets/Textures/Column/Column_MidsectMat_Emissive.png
+    - Assets/Textures/Column/Column_MidsectMat_Emissive.png.meta
+    - Assets/Textures/Column/Column_MidsectMat_Height.png
+    - Assets/Textures/Column/Column_MidsectMat_Height.png.meta
+    - Assets/Textures/Column/Column_MidsectMat_Metallic.png
+    - Assets/Textures/Column/Column_MidsectMat_Metallic.png.meta
+    - Assets/Textures/Column/Column_MidsectMat_Normal.png
+    - Assets/Textures/Column/Column_MidsectMat_Normal.png.meta
+    - Assets/Textures/Column/Column_MidsectMat_Roughness.png
+    - Assets/Textures/Column/Column_MidsectMat_Roughness.png.meta
+    - Assets/Textures/Mummy.meta
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Body_AlbedoTransparency.png
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Body_AlbedoTransparency.png.meta
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Body_MetallicSmoothness.png
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Body_MetallicSmoothness.png.meta
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Body_Normal.png
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Body_Normal.png.meta
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Eyes_AlbedoTransparency.png
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Eyes_AlbedoTransparency.png.meta
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Eyes_MetallicSmoothness.png
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Eyes_MetallicSmoothness.png.meta
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Eyes_Normal.png
+    - Assets/Textures/Mummy/MummyUVnotRigged2_Eyes_Normal.png.meta
+    - Assets/Textures/Sarcophagus.meta
+    - Assets/Textures/Sarcophagus/Sarchophagus_Sarcophagus_Mat_AlbedoTransparency.png
+    - Assets/Textures/Sarcophagus/Sarchophagus_Sarcophagus_Mat_AlbedoTransparency.png.meta
+    - Assets/Textures/Sarcophagus/Sarchophagus_Sarcophagus_Mat_MetallicSmoothness.png
+    - Assets/Textures/Sarcophagus/Sarchophagus_Sarcophagus_Mat_MetallicSmoothness.png.meta
+    - Assets/Textures/Sarcophagus/Sarchophagus_Sarcophagus_Mat_Normal.png
+    - Assets/Textures/Sarcophagus/Sarchophagus_Sarcophagus_Mat_Normal.png.meta
+    - Assets/Textures/Torch.meta
+    - Assets/Textures/Torch/Torch_Holder_AlbedoTransparency.png
+    - Assets/Textures/Torch/Torch_Holder_AlbedoTransparency.png.meta
+    - Assets/Textures/Torch/Torch_Holder_MetallicSmoothness.png
+    - Assets/Textures/Torch/Torch_Holder_MetallicSmoothness.png.meta
+    - Assets/Textures/Torch/Torch_Holder_Normal.png
+    - Assets/Textures/Torch/Torch_Holder_Normal.png.meta
+    - Assets/Textures/Torch/Torch_Torch_mat_AlbedoTransparency.png
+    - Assets/Textures/Torch/Torch_Torch_mat_AlbedoTransparency.png.meta
+    - Assets/Textures/Torch/Torch_Torch_mat_MetallicSmoothness.png
+    - Assets/Textures/Torch/Torch_Torch_mat_MetallicSmoothness.png.meta
+    - Assets/Textures/Torch/Torch_Torch_mat_Normal.png
+    - Assets/Textures/Torch/Torch_Torch_mat_Normal.png.meta
+    - Assets/Textures/Treasure.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxJewelMat_Roughness.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxLidMat_Roughness.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMat_Roughness.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_BoxMetalMat_Roughness.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_CoinMat_Roughness.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_CrookMat_Roughness.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_TreasureMeshMat_Roughness.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkFeet_Roughness.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLegMat_Roughness.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkLipMat_Roughness.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_BaseColor.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_BaseColor.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_Emissive.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_Emissive.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_Height.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_Height.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_Metallic.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_Metallic.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_Normal.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_Normal.png.meta
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_Roughness.png
+    - Assets/Textures/Treasure/Treasure_Final_TrunkMainMat_Roughness.png.meta
+    - Assets/Textures/Urn.meta
+    - Assets/Textures/Urn/urn_UrnMat_AlbedoTransparency.png
+    - Assets/Textures/Urn/urn_UrnMat_AlbedoTransparency.png.meta
+    - Assets/Textures/Urn/urn_UrnMat_MetallicSmoothness.png
+    - Assets/Textures/Urn/urn_UrnMat_MetallicSmoothness.png.meta
+    - Assets/Textures/Urn/urn_UrnMat_Normal.png
+    - Assets/Textures/Urn/urn_UrnMat_Normal.png.meta
+    - Assets/Textures/WallFloor.meta
+    - Assets/Textures/WallFloor/WallFloor_WallFloor_AlbedoTransparency.png
+    - Assets/Textures/WallFloor/WallFloor_WallFloor_AlbedoTransparency.png.meta
+    - Assets/Textures/WallFloor/WallFloor_WallFloor_MetallicSmoothness.png
+    - Assets/Textures/WallFloor/WallFloor_WallFloor_MetallicSmoothness.png.meta
+    - Assets/Textures/WallFloor/WallFloor_WallFloor_Normal.png
+    - Assets/Textures/WallFloor/WallFloor_WallFloor_Normal.png.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+>>>>>>> Stashed changes
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
