@@ -30,6 +30,9 @@ public class PlayerMovement2 : MonoBehaviour
     //Used to control UI text
     public Text loseText;
     public Text winText;
+
+    //light
+    public Light flashLight;
     
     //tells whether the player is grounded or not
     private bool isGrounded;
@@ -37,6 +40,7 @@ public class PlayerMovement2 : MonoBehaviour
 
     void Start()
     {
+        flashLight.enabled = false;
         loseText.text = "";
         winText.text = "";
     }
@@ -96,6 +100,17 @@ public class PlayerMovement2 : MonoBehaviour
             //when it is up, the player's speed is set to 6
             speed = 6f;
         }
+
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            flashLight.enabled = true;
+        }
+        if (Input.GetKeyUp(KeyCode.F))
+        {
+            flashLight.enabled = false;
+        }
+
+
     }
 
     //Function used as an event handler for when the player collides with the Mummy or the Macguffin
