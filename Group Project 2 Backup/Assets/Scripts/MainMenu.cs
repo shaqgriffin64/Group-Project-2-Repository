@@ -12,7 +12,7 @@ public class MainMenu : MonoBehaviour
 
     public void QuitGame ()
     {
-        Debug.Log("Quit");
+        
         Application.Quit();
     }
 
@@ -24,7 +24,7 @@ public class MainMenu : MonoBehaviour
         }
         if (Input.GetButtonDown("B Button"))
         {
-            Debug.Log("Quit");
+            
             Application.Quit();
         }
     }

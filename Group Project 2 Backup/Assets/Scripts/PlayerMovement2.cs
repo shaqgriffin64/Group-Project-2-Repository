@@ -123,7 +123,7 @@ public class PlayerMovement2 : MonoBehaviour
             
                 audioSource.clip = Walk;
                 audioSource.Play();
-                Debug.Log ("Play Sound");
+                
             
             }
         }

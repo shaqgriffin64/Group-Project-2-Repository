@@ -12,7 +12,7 @@ public class WinScreen : MonoBehaviour
 
     public void QuitGame()
     {
-        Debug.Log("Quit");
+        
         Application.Quit();
     }
 
@@ -29,7 +29,7 @@ public class WinScreen : MonoBehaviour
         }
         if (Input.GetButtonDown("B Button"))
         {
-            Debug.Log("Quit");
+            
             Application.Quit();
         }
     }

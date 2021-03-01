@@ -13,8 +13,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
+    m_Keys:
+    - .collabignore
+    - Assets/Scenes/Menus.unity
+    - Assets/Scenes/Menus.unity.meta
+    - Assets/Scenes/Temple Whitebox v2.unity
+    - Assets/Scenes/Temple Whitebox v2.unity.meta
+    - Assets/Scripts/LoseScreen.cs
+    - Assets/Scripts/LoseScreen.cs.meta
+    - Assets/Scripts/MainMenu.cs
+    - Assets/Scripts/MainMenu.cs.meta
+    - Assets/Scripts/PauseMenu.cs
+    - Assets/Scripts/PauseMenu.cs.meta
+    - Assets/Scripts/PlayerMovement2.cs
+    - Assets/Scripts/PlayerMovement2.cs.meta
+    - Assets/Scripts/WinScreen.cs
+    - Assets/Scripts/WinScreen.cs.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/ProjectVersion.txt
+    - 
+    m_Values: 00000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
