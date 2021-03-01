@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus.unity
+    guid: b28df90b64ce127478599502a56d043e
+  - enabled: 1
+    path: Assets/Scenes/Temple Whitebox v2.unity
+    guid: ee48cabef09155e4688638fe1bf62cb0
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: f79da46879da7244ebfaabb7961d1370
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 7372764b4b4d55b49acb3765509078a1
   m_configObjects: {}

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement2 : MonoBehaviour
 {
@@ -83,11 +84,7 @@ public class PlayerMovement2 : MonoBehaviour
         controller.Move(velocity * Time.deltaTime);
 
         //allows the player to exit the game when the 'escape key is pressed'
-        if (Input.GetKey("escape"))
-        {
-            Application.Quit();
-        }
-
+        
         //Checking to see if the LeftShift key is down
         if (Input.GetKeyDown(KeyCode.LeftShift))
         {
@@ -118,18 +115,12 @@ public class PlayerMovement2 : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Enemy"))
         {
-            speed = 0f;
-
-            loseText.text = "You Suck";
+            SceneManager.LoadScene("Lose");
         }
 
         if (other.gameObject.CompareTag("Pickup"))
         {
-            speed = 0f;
-
-            other.gameObject.SetActive(false);
-
-            winText.text = "Noice";
+            SceneManager.LoadScene("Win");
         }
     }
 }
