@@ -81,7 +81,7 @@ public class EnemyController : MonoBehaviour
         }
         if (isFrozen == false)
         {
-            agent.speed = 4f;
+            agent.speed = 8f;
             time = 3;
         }
 

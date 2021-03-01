@@ -95,7 +95,7 @@ public class PlayerMovement2 : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.LeftShift) || Input.GetButtonDown("Sprint"))
         {
             //when it is down, player's speed is double to 12
-            speed = 12f;
+            speed = 9f;
         }
         //Checking to see if the LeftShift key is up
         if (Input.GetKeyUp(KeyCode.LeftShift) || Input.GetButtonUp("Sprint"))
